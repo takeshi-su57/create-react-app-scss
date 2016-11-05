@@ -21,9 +21,10 @@ export default (props) => {
             <li className="active"><Link to="/">Home</Link></li>
             <li><Link to="pageOne">Page One</Link></li>
             <li><Link to="pageTwo">Page Two</Link></li>
+            <li><a target="_blank" href="https://twitter.com/deshatom">Twitter</a></li>
+            <li><a target="_blank" href="https://twitter.com/deshatom">LinkedIn</a></li>
           </ul>
           <ul className="nav navbar-nav navbar-right">
-            <li><Link to="pageThree">Page Three</Link></li>
             <li className="active"><Link to="about">About<span className="sr-only">(current)</span></Link></li>
             <li><Link to="contact">Contact</Link></li>
           </ul>
