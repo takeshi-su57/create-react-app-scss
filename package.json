@@ -1,7 +1,8 @@
 {
-  "name": "theSTARLABS-Home",
-  "version": "0.1.0",
-  "private": true,
+  "name": "create-react-app-scss",
+  "version": "0.1.1",
+  "private": false,
+  "homepage": "https://madurajith.github.io/create-react-app-scss",
   "devDependencies": {
     "autoprefixer": "6.5.1",
     "babel-core": "6.17.0",
