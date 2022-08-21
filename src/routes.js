@@ -1,12 +1,12 @@
-import React from 'react';
 import { Route, IndexRoute } from 'react-router';
+import React from 'react';
 
-import App from './components/app';
 import Home from './containers/home';
-import About from './containers/about';
+import App from './components/app';
 import Contact from './containers/contact';
-import PageOne  from './containers/page_one';
+import About from './containers/about';
 import PageTwo from './containers/page_two';
+import PageOne  from './containers/page_one';
 
 export default (
   <Route path="/" component={App}>
